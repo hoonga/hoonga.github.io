@@ -175,7 +175,7 @@ iframe {
 }
 .section .heading {
   margin-top: 0;
-  margin-bottom: 60px;
+  margin-bottom: 35px;
   color: #545e69;
   font-size: 32px;
 }
@@ -186,7 +186,7 @@ iframe {
 /* About Section */
 /* displayable Section */
 .displayable .item {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .displayable .item .title {
   font-size: 24px;
@@ -208,10 +208,10 @@ iframe {
   opacity: 0.8;
 }
 .displayable .divider {
-  margin-bottom: 60px;
+  margin-bottom: 35px;
 }
 .displayable .featured {
-  margin-bottom: 60px;
+  margin-bottom: 70px;
 }
 .displayable .featured .title {
   margin-bottom: 5px;
@@ -223,14 +223,14 @@ iframe {
 }
 .displayable .featured .quotes {
   margin-top: 8px;
-  margin-bottom: 40px;
+  margin-bottom: 25px;
   color: #aab4b6;
 }
 .displayable .featured img {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .displayable .featured .desc {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   font-weight: bold;
   color: #32383e
 }
@@ -272,30 +272,6 @@ iframe {
 }
 .projects .item .title a:hover {
   color: #5f6b77;
-}
-/* Work Section */
-.experience .item {
-  margin-bottom: 30px;
-}
-.experience .item .title {
-  font-size: 16px;
-  margin-top: 0;
-  margin-bottom: 5px;
-  line-height: 1.5;
-}
-.experience .item .title .place {
-  color: #999999;
-  font-weight: normal;
-}
-.experience .item .title .place a {
-  color: #999999;
-}
-.experience .item .title .place a:hover {
-  color: #666666;
-}
-.experience .item .title .year {
-  color: #999999;
-  font-weight: normal;
 }
 /* Git section */
 .ghfeed {
